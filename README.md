@@ -1,4 +1,4 @@
-# Analyzing Popular YouTube Channels
+# Analysing Popular YouTube Channels
 
 ## Team Members
 - Elizabeth Adesaogun
@@ -6,7 +6,7 @@
 - Nayana Vutukuri
 
 ## Project Overview
-This project is an essential part of our SQL course. The objective is to create a relational database that reflects the major learning outcomes from the course modules. The project includes core requirements and additional advanced options to enhance our learning experience.
+This project is an essential part of our SQL course. The objective is to create a relational database that reflects the major learning outcomes from the 8 weeks of SQL course. The project includes core requirements and additional advanced options.
 
 ## Dataset
 We used the dataset "Most Subscribed YouTube Channels" from Kaggle, which explores YouTube channel information. This dataset includes:
