@@ -37,7 +37,8 @@ You can find the dataset [here](https://www.kaggle.com/datasets/sukhmandeepsingh
 ✔ Prepare an example query with `GROUP BY` and `HAVING` to demonstrate how to extract data from your DB for analysis  
 
 ## Database Diagram
-![Database Diagram](./mnt/data/drawSQL-image-export-2024-05-02.png)
+![drawSQL-image-export-2024-05-02](https://github.com/MarikaBBB/Most-Subscribed-YouTube-Channels/assets/126022615/cced8710-671a-4497-9a31-c1587857fdcb)
+
 
 ## Submission and Assessment
 - A backup copy of the database diagram has been saved as `projectname.sql` and submitted via Slack.
